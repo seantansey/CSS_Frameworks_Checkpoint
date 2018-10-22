@@ -1,0 +1,59 @@
+.banner {
+  background-color: #333;
+  text-align: center;
+  color: #ccc;
+}
+
+.navigation {
+  font-size: 14px;
+}
+
+.logo {
+  height: 90px;
+}
+
+.content {
+  text-align: center;
+}
+
+.green {
+  background-color: #026e00;
+  color: #ccc;
+}
+
+.right {
+  color: #ccc;
+  text-decoration: underline;
+}
+.alignR {
+  text-align: right;
+}
+
+button {
+  background-color: #026e00;
+  color: white;
+  margin: 10px;
+  width: 300px;
+}
+
+
+.green_text {
+  color: #026e00;
+  font-weight: lighter;
+}
+
+footer {
+  width: 100%;
+  background-color: #333;
+  color: #ccc;
+
+}
+
+p {
+  font-size: 12px;
+}
+
+.fixed {
+  min-width: 130px;
+
+}
